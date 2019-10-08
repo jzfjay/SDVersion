@@ -52,6 +52,9 @@
                               @"iPhone11,2" : @(iPhoneXS),
                               @"iPhone11,4" : @(iPhoneXSMax),
                               @"iPhone11,6" : @(iPhoneXSMax),
+                              @"iPhone12,3" : @(iPhone11),
+                              @"iPhone12,5" : @(iPhone11Pro),
+                              @"iPhone12,1" : @(iPhone11ProMax),
                               @"i386"       : @(Simulator),
                               @"x86_64"     : @(Simulator),
                               
