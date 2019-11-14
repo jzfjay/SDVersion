@@ -244,6 +244,9 @@
              @(iPhoneXS)             : @"iPhone XS",
              @(iPhoneXR)             : @"iPhone XR",
              @(iPhoneXSMax)          : @"iPhone XS Max",
+             @(iPhone11)             : @"iPhone11",
+             @(iPhone11Pro)          : @"iPhone12,5",
+             @(iPhone11ProMax)       : @"iPhone12,1",
              
              @(iPad1)                : @"iPad 1",
              @(iPad2)                : @"iPad 2",
